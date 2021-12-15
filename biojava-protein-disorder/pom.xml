@@ -63,7 +63,7 @@
 		<dependency>
 			<groupId>org.biojava</groupId>
 			<artifactId>biojava-core</artifactId>
-			<version>5.3.1-SNAPSHOT</version>
+			<version>6.0.2</version>
 		</dependency>
 		<!-- logging dependencies (managed by parent pom, don't set versions or
 			scopes here) -->
