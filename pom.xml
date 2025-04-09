@@ -40,9 +40,9 @@
 		<!-- needed for failsafe plugin in integrationtest module - JD 2018-03-08 -->
     	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maxmem>512M</maxmem>
-		<mmtf.version>1.0.9</mmtf.version>
+		<mmtf.version>1.0.10</mmtf.version>
 		<slf4j.version>1.7.30</slf4j.version>
-		<log4j.version>2.13.1</log4j.version>
+		<log4j.version>2.17.1</log4j.version>
 	</properties>
 	<scm>
 		<connection>scm:git:git://github.com/biojava/biojava.git</connection>
